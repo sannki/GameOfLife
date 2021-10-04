@@ -2,6 +2,7 @@ package life;
 
 import java.io.IOException;
 import java.util.Random;
+import java.util.*;
 
 // Generation interface contains the main operations related to Game of Life.
 interface Generation {
